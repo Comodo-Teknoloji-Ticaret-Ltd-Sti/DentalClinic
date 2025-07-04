@@ -1,0 +1,702 @@
+{
+    "tr": {
+        "header": {
+            "special_offer": "ÖZEL FIRSAT: AI Diş Analizi + %50 İndirim + Ücretsiz Muayene",
+            "hurry": "Son 24 Saat - Acele Edin!",
+            "clinic_name": "DentalCare Pro",
+            "clinic_subtitle": "AI Destekli Premium Diş Kliniği",
+            "hour_service": "7/24 Hizmet",
+            "book_appointment": "Randevu Al",
+            "features": {
+                "ai": "FDA Onaylı AI Teknolojisi",
+                "satisfaction": "%100 Memnuniyet Garantisi",
+                "patients": "15.000+ Mutlu Hasta"
+            }
+        },
+        "doctors": {
+            "title": "Uzman Hekimlerimiz",
+            "subtitle": "Alanında uzman, deneyimli ve güler yüzlü hekim kadromuzla sizlere en iyi hizmeti sunuyoruz",
+            "experience": "yıl deneyim",
+            "education": "Eğitim"
+        },
+        "analysis": {
+            "title": "Anında AI Diş Analizi",
+            "start_camera": "Kamerayı Başlat",
+            "camera_subtitle": "30 saniyede profesyonel AI analizi",
+            "upload_photo": "Fotoğraf Yükle",
+            "or": "veya",
+            "accuracy": {
+                "title": "Doğruluk Oranı",
+                "value": "%99"
+            },
+            "duration": {
+                "title": "Analiz Süresi",
+                "value": "30 sn"
+            },
+            "smile": "Dişlerinizi göstererek gülümseyin",
+            "lighting": "En iyi sonuç için iyi aydınlatma kullanın",
+            "take_photo": "Fotoğraf Çek",
+            "cancel": "İptal",
+            "analyzing": "AI Analiz Ediliyor...",
+            "preparing": "Profesyonel analiz sonuçlarınız hazırlanıyor"
+        },
+        "results": {
+            "title": "Ücretsiz Analiz Sonucu",
+            "subtitle": "Hemen şimdi AI diş analizinizi alın!",
+            "countdown": "ÖNERİLERİMİZ {time} SÜRE GEÇERLİ!",
+            "offer_end": "Bu süre sonunda %50 indirim sona erecek!",
+            "metrics": {
+                "tartar": "Tartar Seviyesi",
+                "yellowing": "Sarılık Seviyesi",
+                "gum_health": "Diş Eti Sağlığı"
+            },
+            "expert_advice": {
+                "title": "Uzman Önerileri",
+                "urgent": "🚨 ACİL: Yüksek tartar seviyesi tespit edildi! Hemen profesyonel temizlik gerekli. %50 İNDİRİM fırsatını kaçırmayın!",
+                "normal": "✓ Tartar seviyesi kontrol altında. Koruyucu bakım için özel indirimlerimizden yararlanın!",
+                "special_offer": "ÖZEL FIRSAT: Bugün randevu alanlara %50 indirim!"
+            }
+        },
+        "consultation": {
+            "title": "Ücretsiz Konsültasyon Talep Edin",
+            "subtitle": "Uzmanlarımız 15 dakika içinde sizi arayacak!",
+            "form": {
+                "name": "Ad",
+                "surname": "Soyad",
+                "phone": "Telefon",
+                "email": "E-posta",
+                "placeholder": {
+                    "name": "Adınız",
+                    "surname": "Soyadınız",
+                    "phone": "0532 123 45 67",
+                    "email": "ornek@email.com"
+                }
+            },
+            "submit": "HEMEN RANDEVU AL - %50 İNDİRİM",
+            "features": {
+                "free": "Ücretsiz",
+                "consultation": "Konsültasyon",
+                "discount": "%50",
+                "discount_text": "İndirim"
+            },
+            "callback": "15 dakika içinde uzmanlarımız sizi arayacak",
+            "success": "🎉 TEBRİKLER! Ücretsiz konsültasyon talebiniz alındı. Uzmanlarımız 15 dakika içinde sizi arayacak!",
+            "error": "⚠️ Ücretsiz konsültasyon için lütfen tüm alanları eksiksiz doldurun."
+        },
+        "features": {
+            "title": "Neden Bizi Tercih Ediyorlar?",
+            "items": {
+                "ai": {
+                    "title": "FDA Onaylı AI",
+                    "desc": "Dünya standartlarında %99 doğruluk oranı"
+                },
+                "patients": {
+                    "title": "15,000+ Hasta",
+                    "desc": "Mutlu hastalarımızın güvenini kazandık"
+                },
+                "speed": {
+                    "title": "30 Saniye",
+                    "desc": "Anında profesyonel analiz sonucu"
+                },
+                "best": {
+                    "title": "Türkiye'nin En İyisi",
+                    "desc": "Ödüllü teknoloji ve uzman kadro"
+                }
+            }
+        },
+        "testimonials": {
+            "title": "Hastalarımız Ne Diyor?",
+            "reviews": [
+                {
+                    "text": "AI analiz gerçekten çok etkileyici! Dişlerimin durumunu anında öğrendim ve hemen randevu aldım. %50 indirim de çok güzeldi.",
+                    "name": "Ayşe Yılmaz",
+                    "location": "İstanbul"
+                },
+                {
+                    "text": "Kamera özelliği harika! Evden çıkmadan diş kontrolü yaptırdım. Sonuçlar çok detaylı ve profesyonel.",
+                    "name": "Mehmet Kaya",
+                    "location": "Ankara"
+                },
+                {
+                    "text": "15 dakika içinde aradılar ve randevu verdiler. Hizmet kalitesi mükemmel, teknoloji çok gelişmiş.",
+                    "name": "Sema Özkan",
+                    "location": "İzmir"
+                }
+            ]
+        },
+        "smile_design": {
+            "title": "Hayalinizdeki Gülümsemeye Kavuşun!",
+            "subtitle": "Premium diş bakımı ile mükemmel gülüşünüze kavuşun",
+            "packages": {
+                "hollywood": {
+                    "title": "Hollywood Gülüşü",
+                    "desc": "Porselen lamina ile kusursuz beyazlık",
+                    "offer": "%40 İndirim"
+                },
+                "digital": {
+                    "title": "Dijital Gülüş",
+                    "desc": "3D tasarım ile mükemmel uyum",
+                    "offer": "12 Taksit"
+                },
+                "premium": {
+                    "title": "Premium Paket",
+                    "desc": "Ömür boyu garanti & bakım",
+                    "offer": "VIP Hizmet"
+                }
+            },
+            "gift": {
+                "title": "Özel Hediye Paketi",
+                "items": [
+                    "Ücretsiz Diş Beyazlatma (1.500₺ değerinde)",
+                    "Premium Ağız Bakım Seti (900₺ değerinde)",
+                    "2 Yıl Ücretsiz Kontrol & Temizlik"
+                ],
+                "cta": "HEMEN BAŞLAYIN"
+            }
+        },
+        "footer": {
+            "description": "Türkiye'nin en gelişmiş AI destekli diş analiz merkezi. Teknoloji ve deneyimle sağlıklı gülüşler.",
+            "contact": "İletişim",
+            "services": "Hizmetler",
+            "service_list": [
+                "AI Diş Analizi",
+                "Ücretsiz Konsültasyon",
+                "Diş Temizliği",
+                "Ortodonti",
+                "İmplant",
+                "Estetik Diş Hekimliği"
+            ],
+            "copyright": "© 2024 DentalCare Pro. Tüm hakları saklıdır.",
+            "features": [
+                "Verileriniz SSL ile korunmaktadır",
+                "Mobil uyumlu tasarım",
+                "ISO 9001 kalite sertifikası"
+            ]
+        }
+    },
+    "en": {
+        "header": {
+            "special_offer": "SPECIAL OFFER: AI Dental Analysis + 50% Discount + Free Examination",
+            "hurry": "Last 24 Hours - Hurry Up!",
+            "clinic_name": "DentalCare Pro",
+            "clinic_subtitle": "AI-Powered Premium Dental Clinic",
+            "hour_service": "24/7 Service",
+            "book_appointment": "Book Appointment",
+            "features": {
+                "ai": "FDA Approved AI Technology",
+                "satisfaction": "100% Satisfaction Guarantee",
+                "patients": "15,000+ Happy Patients"
+            }
+        },
+        "doctors": {
+            "title": "Our Expert Doctors",
+            "subtitle": "We provide the best service with our expert and friendly dental team",
+            "experience": "years of experience",
+            "education": "Education"
+        },
+        "analysis": {
+            "title": "Instant AI Dental Analysis",
+            "start_camera": "Start Camera",
+            "camera_subtitle": "Professional AI analysis in 30 seconds",
+            "upload_photo": "Upload Photo",
+            "or": "or",
+            "accuracy": {
+                "title": "Accuracy Rate",
+                "value": "99%"
+            },
+            "duration": {
+                "title": "Analysis Duration",
+                "value": "30 sec"
+            },
+            "smile": "Smile showing your teeth",
+            "lighting": "Use good lighting for best results",
+            "take_photo": "Take Photo",
+            "cancel": "Cancel",
+            "analyzing": "AI Analyzing...",
+            "preparing": "Preparing your professional analysis results"
+        },
+        "results": {
+            "title": "Free Analysis Result",
+            "subtitle": "Get your AI dental analysis now!",
+            "countdown": "OUR RECOMMENDATIONS VALID FOR {time}!",
+            "offer_end": "The 50% discount will end after this period!",
+            "metrics": {
+                "tartar": "Tartar Level",
+                "yellowing": "Yellowing Level",
+                "gum_health": "Gum Health"
+            },
+            "expert_advice": {
+                "title": "Expert Recommendations",
+                "urgent": "🚨 URGENT: High tartar level detected! Immediate professional cleaning required. Don't miss the 50% DISCOUNT opportunity!",
+                "normal": "✓ Tartar level is under control. Take advantage of our special discounts for preventive care!",
+                "special_offer": "SPECIAL OFFER: 50% discount for those who make an appointment today!"
+            }
+        },
+        "consultation": {
+            "title": "Request a Free Consultation",
+            "subtitle": "Our experts will call you within 15 minutes!",
+            "form": {
+                "name": "Name",
+                "surname": "Surname",
+                "phone": "Phone",
+                "email": "Email",
+                "placeholder": {
+                    "name": "Your Name",
+                    "surname": "Your Surname",
+                    "phone": "+90 532 123 45 67",
+                    "email": "example@email.com"
+                }
+            },
+            "submit": "GET APPOINTMENT NOW - 50% DISCOUNT",
+            "features": {
+                "free": "Free",
+                "consultation": "Consultation",
+                "discount": "50%",
+                "discount_text": "Discount"
+            },
+            "callback": "Our experts will call you within 15 minutes",
+            "success": "🎉 CONGRATULATIONS! Your free consultation request has been received. Our experts will call you within 15 minutes!",
+            "error": "⚠️ Please fill in all fields completely for a free consultation."
+        },
+        "features": {
+            "title": "Why They Prefer Us?",
+            "items": {
+                "ai": {
+                    "title": "FDA Approved AI",
+                    "desc": "99% accuracy rate by world standards"
+                },
+                "patients": {
+                    "title": "15,000+ Patients",
+                    "desc": "Gained the trust of our happy patients"
+                },
+                "speed": {
+                    "title": "30 Seconds",
+                    "desc": "Instant professional analysis result"
+                },
+                "best": {
+                    "title": "Turkey's Best",
+                    "desc": "Award-winning technology and expert staff"
+                }
+            }
+        },
+        "testimonials": {
+            "title": "What Our Patients Say?",
+            "reviews": [
+                {
+                    "text": "AI analysis is really impressive! I learned the condition of my teeth instantly and made an appointment right away. The 50% discount was great too.",
+                    "name": "Ayşe Yılmaz",
+                    "location": "İstanbul"
+                },
+                {
+                    "text": "The camera feature is amazing! I had a dental check-up without leaving my house. The results were very detailed and professional.",
+                    "name": "Mehmet Kaya",
+                    "location": "Ankara"
+                },
+                {
+                    "text": "They called and scheduled an appointment within 15 minutes. The service quality is excellent, and the technology is very advanced.",
+                    "name": "Sema Özkan",
+                    "location": "İzmir"
+                }
+            ]
+        },
+        "smile_design": {
+            "title": "Get Your Dream Smile!",
+            "subtitle": "Achieve your perfect smile with premium dental care",
+            "packages": {
+                "hollywood": {
+                    "title": "Hollywood Smile",
+                    "desc": "Perfect whiteness with porcelain veneers",
+                    "offer": "40% OFF"
+                },
+                "digital": {
+                    "title": "Digital Smile",
+                    "desc": "Perfect fit with 3D design",
+                    "offer": "12 Installments"
+                },
+                "premium": {
+                    "title": "Premium Package",
+                    "desc": "Lifetime warranty & care",
+                    "offer": "VIP Service"
+                }
+            },
+            "gift": {
+                "title": "Special Gift Package",
+                "items": [
+                    "Free Teeth Whitening (worth 1,500₺)",
+                    "Premium Oral Care Set (worth 900₺)",
+                    "2 Years Free Check-up & Cleaning"
+                ],
+                "cta": "START NOW"
+            }
+        },
+        "footer": {
+            "description": "Turkey's most advanced AI-supported dental analysis center. Healthy smiles with technology and experience.",
+            "contact": "Contact",
+            "services": "Services",
+            "service_list": [
+                "AI Dental Analysis",
+                "Free Consultation",
+                "Teeth Cleaning",
+                "Orthodontics",
+                "Implant",
+                "Cosmetic Dentistry"
+            ],
+            "copyright": "© 2024 DentalCare Pro. All rights reserved.",
+            "features": [
+                "Your data is protected with SSL",
+                "Mobile-friendly design",
+                "ISO 9001 quality certificate"
+            ]
+        }
+    },
+    "ar": {
+        "header": {
+            "special_offer": "عرض خاص: تحليل الأسنان بالذكاء الاصطناعي + خصم 50٪ + فحص مجاني",
+            "hurry": "آخر 24 ساعة - سارع!",
+            "clinic_name": "دينتال كير برو",
+            "clinic_subtitle": "عيادة أسنان متميزة مدعومة بالذكاء الاصطناعي",
+            "hour_service": "خدمة على مدار الساعة",
+            "book_appointment": "احجز موعد",
+            "features": {
+                "ai": "تكنولوجيا الذكاء الاصطناعي المعتمدة من FDA",
+                "satisfaction": "ضمان الرضا بنسبة 100%",
+                "patients": "15,000+ مريض سعيد"
+            }
+        },
+        "doctors": {
+            "title": "أطباؤنا المتخصصون",
+            "subtitle": "نقدم أفضل خدمة مع فريقنا الطبي المتخصص والودود",
+            "experience": "سنوات من الخبرة",
+            "education": "التعليم"
+        },
+        "analysis": {
+            "title": "تحليل الأسنان الفوري بالذكاء الاصطناعي",
+            "start_camera": "تشغيل الكاميرا",
+            "camera_subtitle": "تحليل احترافي في 30 ثانية",
+            "upload_photo": "تحميل صورة",
+            "or": "أو",
+            "accuracy": {
+                "title": "نسبة الدقة",
+                "value": "99%"
+            },
+            "duration": {
+                "title": "مدة التحليل",
+                "value": "30 ثانية"
+            },
+            "smile": "ابتسم مع إظهار أسنانك",
+            "lighting": "استخدم إضاءة جيدة للحصول على أفضل النتائج",
+            "take_photo": "التقط صورة",
+            "cancel": "إلغاء",
+            "analyzing": "يتم تحليل البيانات بواسطة الذكاء الاصطناعي...",
+            "preparing": "يتم إعداد نتائج التحليل الاحترافية الخاصة بك"
+        },
+        "results": {
+            "title": "نتيجة التحليل المجانية",
+            "subtitle": "احصل على تحليل أسنانك بالذكاء الاصطناعي الآن!",
+            "countdown": "عروضنا سارية لمدة {time} فقط!",
+            "offer_end": "ستنتهي خصم 50% بعد هذه الفترة!",
+            "metrics": {
+                "tartar": "مستوى الجير",
+                "yellowing": "مستوى الاصفرار",
+                "gum_health": "صحة اللثة"
+            },
+            "expert_advice": {
+                "title": "توصيات الخبراء",
+                "urgent": "🚨 عاجل: تم الكشف عن مستوى جير مرتفع! يتطلب تنظيف احترافي فوري. لا تفوت فرصة خصم 50%!",
+                "normal": "✓ مستوى الجير تحت السيطرة. استفد من خصوماتنا الخاصة للعناية الوقائية!",
+                "special_offer": "عرض خاص: خصم 50% لمن يحجزون موعدًا اليوم!"
+            }
+        },
+        "consultation": {
+            "title": "طلب استشارة مجانية",
+            "subtitle": "سيتصل بك خبراؤنا خلال 15 دقيقة!",
+            "form": {
+                "name": "الاسم",
+                "surname": "الكنية",
+                "phone": "الهاتف",
+                "email": "البريد الإلكتروني",
+                "placeholder": {
+                    "name": "اسمك",
+                    "surname": "كنيتك",
+                    "phone": "+90 532 123 45 67",
+                    "email": "مثال@email.com"
+                }
+            },
+            "submit": "احصل على موعد الآن - خصم 50%",
+            "features": {
+                "free": "مجاني",
+                "consultation": "استشارة",
+                "discount": "50%",
+                "discount_text": "خصم"
+            },
+            "callback": "سيتصل بك خبراؤنا خلال 15 دقيقة",
+            "success": "🎉 تهانينا! تم استلام طلب استشارتك المجانية. سيتصل بك خبراؤنا خلال 15 دقيقة!",
+            "error": "⚠️ يرجى ملء جميع الحقول بالكامل للحصول على استشارة مجانية."
+        },
+        "features": {
+            "title": "لماذا يفضلوننا؟",
+            "items": {
+                "ai": {
+                    "title": "الذكاء الاصطناعي المعتمد من FDA",
+                    "desc": "نسبة دقة 99% بمعايير عالمية"
+                },
+                "patients": {
+                    "title": "15,000+ مريض",
+                    "desc": "كسبنا ثقة مرضانا السعداء"
+                },
+                "speed": {
+                    "title": "30 ثانية",
+                    "desc": "نتيجة تحليل احترافية فورية"
+                },
+                "best": {
+                    "title": "أفضل مركز في تركيا",
+                    "desc": "تكنولوجيا حائزة على جوائز وفريق خبراء"
+                }
+            }
+        },
+        "testimonials": {
+            "title": "ماذا يقول مرضانا؟",
+            "reviews": [
+                {
+                    "text": "تحليل الذكاء الاصطناعي مثير للإعجاب حقًا! عرفت حالة أسناني على الفور وحجزت موعدًا على الفور. كان خصم 50% رائعًا أيضًا.",
+                    "name": "Ayşe Yılmaz",
+                    "location": "İstanbul"
+                },
+                {
+                    "text": "ميزة الكاميرا رائعة! أجريت فحص أسناني دون مغادرة منزلي. كانت النتائج مفصلة جدًا واحترافية.",
+                    "name": "Mehmet Kaya",
+                    "location": "Ankara"
+                },
+                {
+                    "text": "اتصلوا بي وحددوا موعدًا خلال 15 دقيقة. جودة الخدمة ممتازة، والتكنولوجيا متقدمة جدًا.",
+                    "name": "Sema Özkan",
+                    "location": "İzmir"
+                }
+            ]
+        },
+        "smile_design": {
+            "title": "احصل على ابتسامة أحلامك!",
+            "subtitle": "حقق ابتسامتك المثالية مع رعاية الأسنان المتميزة",
+            "packages": {
+                "hollywood": {
+                    "title": "ابتسامة هوليوود",
+                    "desc": "بياض مثالي مع قشرة البورسلين",
+                    "offer": "خصم 40٪"
+                },
+                "digital": {
+                    "title": "ابتسامة رقمية",
+                    "desc": "تناسق مثالي مع تصميم ثلاثي الأبعاد",
+                    "offer": "12 قسط"
+                },
+                "premium": {
+                    "title": "الباقة المتميزة",
+                    "desc": "ضمان مدى الحياة والرعاية",
+                    "offer": "خدمة VIP"
+                }
+            },
+            "gift": {
+                "title": "باقة هدايا خاصة",
+                "items": [
+                    "تبييض أسنان مجاني (بقيمة 1,500₺)",
+                    "مجموعة عناية فموية متميزة (بقيمة 900₺)",
+                    "فحص وتنظيف مجاني لمدة عامين"
+                ],
+                "cta": "ابدأ الآن"
+            }
+        },
+        "footer": {
+            "description": "أكثر مراكز تحليل الأسنان المدعومة بالذكاء الاصطناعي تقدمًا في تركيا. ابتسامات صحية مع التكنولوجيا والخبرة.",
+            "contact": "اتصل بنا",
+            "services": "الخدمات",
+            "service_list": [
+                "تحليل الأسنان بالذكاء الاصطناعي",
+                "استشارة مجانية",
+                "تنظيف الأسنان",
+                "تقويم الأسنان",
+                "زراعة الأسنان",
+                "طب الأسنان التجميلي"
+            ],
+            "copyright": "© 2024 DentalCare Pro. جميع الحقوق محفوظة.",
+            "features": [
+                "بياناتك محمية بتقنية SSL",
+                "تصميم متوافق مع الهواتف المحمولة",
+                "شهادة جودة ISO 9001"
+            ]
+        }
+    },
+    "ru": {
+        "header": {
+            "special_offer": "СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕ: AI анализ зубов + 50% скидка + Бесплатный осмотр",
+            "hurry": "Последние 24 часа - Торопитесь!",
+            "clinic_name": "ДенталКэр Про",
+            "clinic_subtitle": "Премиум стоматология с поддержкой ИИ",
+            "hour_service": "Круглосуточный сервис",
+            "book_appointment": "Записаться",
+            "features": {
+                "ai": "FDA Одобренные AI Технологии",
+                "satisfaction": "100% Гарантия Удовлетворенности",
+                "patients": "15,000+ Счастливых Пациентов"
+            }
+        },
+        "doctors": {
+            "title": "Наши Эксперты",
+            "subtitle": "Мы предоставляем лучший сервис с нашей командой экспертов",
+            "experience": "лет опыта",
+            "education": "Образование"
+        },
+        "analysis": {
+            "title": "Мгновенный AI Анализ Зубов",
+            "start_camera": "Включить Камеру",
+            "camera_subtitle": "Профессиональный AI анализ за 30 секунд",
+            "upload_photo": "Загрузить Фото",
+            "or": "или",
+            "accuracy": {
+                "title": "Точность",
+                "value": "99%"
+            },
+            "duration": {
+                "title": "Время Анализа",
+                "value": "30 сек"
+            },
+            "smile": "Улыбнитесь, показывая зубы",
+            "lighting": "Используйте хорошее освещение",
+            "take_photo": "Сделать Фото",
+            "cancel": "Отмена",
+            "analyzing": "AI Анализируется...",
+            "preparing": "Подготовка ваших профессиональных результатов анализа"
+        },
+        "results": {
+            "title": "Бесплатный Результат Анализа",
+            "subtitle": "Получите свой AI анализ зубов сейчас же!",
+            "countdown": "НАШИ РЕКОМЕНДАЦИИ ДЕЙСТВИТЕЛЬНЫ {time}!",
+            "offer_end": "Скидка 50% закончится после этого времени!",
+            "metrics": {
+                "tartar": "Уровень зубного камня",
+                "yellowing": "Уровень пожелтения",
+                "gum_health": "Здоровье десен"
+            },
+            "expert_advice": {
+                "title": "Рекомендации Экспертов",
+                "urgent": "🚨 СРОЧНО: Обнаружен высокий уровень зубного камня! Необходима немедленная профессиональная чистка. Не упустите возможность получить СКИДКУ 50%!",
+                "normal": "✓ Уровень зубного камня под контролем. Воспользуйтесь нашими специальными скидками на профилактический уход!",
+                "special_offer": "СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕ: 50% скидка для тех, кто запишется на прием сегодня!"
+            }
+        },
+        "consultation": {
+            "title": "Запросите Бесплатную Консультацию",
+            "subtitle": "Наши эксперты позвонят вам в течение 15 минут!",
+            "form": {
+                "name": "Имя",
+                "surname": "Фамилия",
+                "phone": "Телефон",
+                "email": "Электронная почта",
+                "placeholder": {
+                    "name": "Ваше имя",
+                    "surname": "Ваша фамилия",
+                    "phone": "+90 532 123 45 67",
+                    "email": "пример@email.com"
+                }
+            },
+            "submit": "ЗАПИСАТЬСЯ СЕЙЧАС - СКИДКА 50%",
+            "features": {
+                "free": "Бесплатно",
+                "consultation": "Консультация",
+                "discount": "50%",
+                "discount_text": "Скидка"
+            },
+            "callback": "Наши эксперты позвонят вам в течение 15 минут",
+            "success": "🎉 ПОЗДРАВЛЯЕМ! Ваш запрос на бесплатную консультацию принят. Наши эксперты позвонят вам в течение 15 минут!",
+            "error": "⚠️ Пожалуйста, полностью заполните все поля для получения бесплатной консультации."
+        },
+        "features": {
+            "title": "Почему нас выбирают?",
+            "items": {
+                "ai": {
+                    "title": "FDA Одобренный AI",
+                    "desc": "99% точность по мировым стандартам"
+                },
+                "patients": {
+                    "title": "15,000+ Пациентов",
+                    "desc": "Завоевали доверие наших счастливых пациентов"
+                },
+                "speed": {
+                    "title": "30 Секунд",
+                    "desc": "Мгновенный профессиональный результат анализа"
+                },
+                "best": {
+                    "title": "Лучший в Турции",
+                    "desc": "Наградная технология и экспертный персонал"
+                }
+            }
+        },
+        "testimonials": {
+            "title": "Что говорят наши пациенты?",
+            "reviews": [
+                {
+                    "text": "AI анализ действительно впечатляет! Я мгновенно узнал состояние своих зубов и сразу записался на прием. Скидка 50% тоже была отличной.",
+                    "name": "Ayşe Yılmaz",
+                    "location": "İstanbul"
+                },
+                {
+                    "text": "Функция камеры просто потрясающая! Я сделал проверку зубов, не выходя из дома. Результаты были очень подробными и профессиональными.",
+                    "name": "Mehmet Kaya",
+                    "location": "Ankara"
+                },
+                {
+                    "text": "Мне позвонили и назначили встречу в течение 15 минут. Качество обслуживания отличное, а технология очень продвинутая.",
+                    "name": "Sema Özkan",
+                    "location": "İzmir"
+                }
+            ]
+        },
+        "smile_design": {
+            "title": "Получите Улыбку Мечты!",
+            "subtitle": "Достигните идеальной улыбки с премиум уходом",
+            "packages": {
+                "hollywood": {
+                    "title": "Голливудская Улыбка",
+                    "desc": "Идеальная белизна с фарфоровыми винирами",
+                    "offer": "Скидка 40%"
+                },
+                "digital": {
+                    "title": "Цифровая Улыбка",
+                    "desc": "Идеальная посадка с 3D дизайном",
+                    "offer": "12 Платежей"
+                },
+                "premium": {
+                    "title": "Премиум Пакет",
+                    "desc": "Пожизненная гарантия и уход",
+                    "offer": "VIP Сервис"
+                }
+            },
+            "gift": {
+                "title": "Специальный Подарочный Пакет",
+                "items": [
+                    "Бесплатное Отбеливание Зубов (стоимостью 1,500₺)",
+                    "Премиум Набор Ухода за Полостью Рта (стоимостью 900₺)",
+                    "2 Года Бесплатного Обслуживания и Чистки"
+                ],
+                "cta": "НАЧАТЬ СЕЙЧАС"
+            }
+        },
+        "footer": {
+            "description": "Самый продвинутый в Турции центр анализа зубов с поддержкой ИИ. Здоровые улыбки с технологией и опытом.",
+            "contact": "Контакт",
+            "services": "Услуги",
+            "service_list": [
+                "AI Анализ Зубов",
+                "Бесплатная Консультация",
+                "Чистка Зубов",
+                "Ортодонтия",
+                "Имплант",
+                "Эстетическая Стоматология"
+            ],
+            "copyright": "© 2024 DentalCare Pro. Все права защищены.",
+            "features": [
+                "Ваши данные защищены с помощью SSL",
+                "Дизайн, адаптированный для мобильных устройств",
+                "Сертификат качества ISO 9001"
+            ]
+        }
+    }
+}
